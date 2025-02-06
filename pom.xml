@@ -59,7 +59,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://github.com/dhuffCanisius/module4-continuous-integration.git</url>
+			<url>https://maven.pkg.github.com/dhuffCanisius/module4-continuous-integration.git</url>
 		</repository>
 	</distributionManagement>
 
